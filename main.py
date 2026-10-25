@@ -1,4 +1,4 @@
-from controller.conta_controller import ContaController
+from aplicacao.conta_controller import ContaController
 
 if __name__ == "__main__":
     ContaController().executar()
